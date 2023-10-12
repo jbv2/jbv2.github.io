@@ -1,0 +1,98 @@
+---
+title: "Judith Ballesteros Villascán"
+image: "./judith.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/_JBallesterosV"
+  - label: GitHub
+    url: "https://github.com/jbv2"
+  - label: Email
+    url: "judith_ballesteros@eva.mpg.de"
+output:
+  postcards::trestles
+---
+
+```{=html}
+<style>
+body {
+    font-family: Lobster, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+</style>
+```
+## About myself
+
+I am a mexican scientist starting my PhD at the <a href="https://www.eva.mpg.de/index/">[**Max Planck Institute for Evolutionary Anthropology**]{style="color:  #2C698D;"}</a>, which combines my passions: Evolution and Bioinformatics.
+
+As part of the <a href="https://www.eva.mpg.de/tropical-archaeogenomics/overview/">[**Tropical Archaeogenomics Group**]{style="color:  #2C698D;"}</a>, my research focuses on population genomics across time in the Americas and other tropical regions.
+
+Besides my academic interests, I like training at the GYM, making videos of the new places I visit, and finding good places to eat.
+
+## Education
+
+<font size="4">[**PhD candidate in Biological Sciences**]{style="color:  #2C698D;"}</a></font> \| Max Plank Institute for Evolutionary Anthropology \| January 2023 - Present
+
+<font size="4">[**MSc in Integrative Biology**]{style="color:  #2C698D;"}</a></font> \| National Laboratory of Genomics for Biodiversity (LANGEBIO) \| September 2020 - September 2022
+
+<font size="4">[**B.S. in Biotechnology**]{style="color:  #2C698D;"}</a></font>  graduated with honors \| Meritorious Autonomous University of Puebla \| August 2015 - January 2020
+
+## Research Experience
+
+<font size="4">[**Max Planck Institute for Evolutionary Anthropology**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.eva.mpg.de/tropical-archaeogenomics/overview/">[Tropical Archaeogenomics / Kathrin Nägele Lab]{style="color:  #C86E9A;"}</a> \| PhD Candidate \| February 2023 - Present
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://regrnalab.github.io/">[RegRNA Lab / Selene Fernandes-Valverde Lab]{style="color:  #C86E9A;"}</a> \| Master's student \| January 2021 - September 2022
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab /Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Collaborator for Master's project \| January 2021 - September 2022
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab / Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| November 2020 - January 2021
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="https://langebio.cinvestav.mx/en/Dr-Rafael-Montiel">[Evolutionary genetic interactions and paleogenomics Lab / Rafael Montiel Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| October 2020 - November 2020
+
+<font size="4">[**INMEGEN-IBT**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.ibt.unam.mx/">[Enrique Morett-Sánchez Lab]{style="color:  #C86E9A;"}</a> \| Research Assistant of the National System of Researchers level III supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
+
+<font size="4">[**INMEGEN**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.inmegen.gob.mx/">[Cristóbal Fresno Rodríguez]{style="color:  #C86E9A;"}</a> \| Undergraduate researcher supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
+
+<font size="4">[**Centro de Investigaciones en Ciencias Microbiológicas**]{style="color:  #2C698D;"}</a></font> \| <a href="https://icuap.buap.mx/content/centro-de-investigaciones-en-ciencias-microbiol%C3%B3gicas">[Laboratorio de Genética Molecular Microbiana / Miguel Casteñeda-Lucio Lab]{style="color:  #C86E9A;"}</a> \| Highschool student and Undergraduate researcher supervised by Liliana López-Pliego \| April 2015 - October 2018
+
+## Oral Presentations and Posters
+
+[**10th Meeting of the International Society for Biomolecular Archaeology (ISBA10)**]{style="color:  #2C698D;"}</a>. \| Estonian National Museum, Tartu, Estonia - September 2023 \| [Poster]{style="color:  #C86E9A;"}</a>
+
+[**Society for Molecular Biology and Evolution Meeting (SMBE)**]{style="color:  #2C698D;"}</a>. \| Held virtually due to COVID - July 2021 \| [Poster]{style="color:  #C86E9A;"}</a>
+
+[**INMEGEN. Students meeting**]{style="color:  #2C698D;"}</a>. \| Mexico City - December 2018 \| [Poster]{style="color:  #C86E9A;"}</a>
+
+## Publications
+
+[**A Tale of Native American Whole-Genome Sequencing and Other Technologies** ]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Guzmán-Linares J., [Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Morett, E. Diversity. 2022.08.12. <a href=https://doi.org/10.3390/d14080647>[DOI]{style="color: #6c757d;"}</a>.
+
+[**Whole genome variation in 27 Mexican indigenous populations, demographic and biomedical insights.** ]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Pérez-Villatoro F., García-Ortiz H., Barajas-Olmos F., [J.; Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Soberón X., and Morett, E. PLoS One. 2021.04.21. <a href=https://doi.org/10.1371/journal.pone.0249773>[DOI]{style="color: #6c757d;"}</a>.
+
+## Teaching Experience
+
+<a href="https://nf-co.re/events/2023/bytesize_custom_configs">[**Bytesize: Using nf-core configs in custom pipelines**]{style="color:  #2C698D;"}</a>. \| Instructor \| October 2023
+
+[**R-Ladies chapters 4-8 of Software Carpentry "R for Reproducible Scientific Analysis"**]{style="color:  #2C698D;"}</a>. \| R instructor \| UNAM Center for Mathematical Sciences \| 2022
+
+[**Habilidades Básicas en Linux Vol 1"**]{style="color:  #2C698D;"}</a>. \| Instructor \| INMEGEN \| June 2022
+
+## Courses and Meetings
+
+[**Summer course in analysis of high throughput data for population genetics**]{style="color:  #2C698D;"}</a> \| August 2023 \| University of Copenhagen
+
+[**AGAR Workshop on Computational Genetics**]{style="color:  #2C698D;"}</a> \| July 2022 \| Online
+
+[**Python for Genomic Data Science**]{style="color:  #2C698D;"}</a> \| December 2021 \| Online Johns Hopkins University
+
+[**Course, Statistics for Genomic Data Science**]{style="color:  #2C698D;"}</a> \| August 2021 \| Online Johns Hopkins University
+
+[**5th MexPopGen**, which brings together the scientific community with an interest in the area of population genetics to share the advances]{style="color:  #2C698D;"}</a> \| December 2020 \| Online INMEGEN
+
+[**4th MexPopGen**]{style="color:  #2C698D;"}</a>. \| January 2019 \| LANGEBIO, LIIGH, UNAM, ENAH and CONABIO - Mexico City
+
+[**Practical workshop on Large-Scale Genomic Data Analyses: GWAS in structured populations.**]{style="color:  #2C698D;"}</a> \| November 2018 \| LANGEBIO - Irapuato, Guanajuato, Mexico
+
+[**Comprehensive Workshop for the analysis of genomic and transcriptomic data given by the Massive Sequencing Unit.**]{style="color:  #2C698D;"}</a> \| January 2018 \| IBT, UNAM - Cuernavaca, Morelos, Mexico.
+
+[**International Bioinformatics Workshops at the Center for Genomic Sciences of the UNAM: Genome Assembly and Annotation.**]{style="color:  #2C698D;"}</a> \| July 2017 \| IBT, UNAM - Cuernavaca, Morelos, Mexico
+
+[**International Bioinformatics Workshops at the Center for Genomic Sciences of the UNAM: Introduction to Human Genetics.**]{style="color:  #2C698D;"}</a> \| January 2017 \| IBT, UNAM - Cuernavaca, Morelos, Mexico
