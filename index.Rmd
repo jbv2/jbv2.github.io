@@ -47,11 +47,11 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 <font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="https://langebio.cinvestav.mx/en/Dr-Rafael-Montiel">[Evolutionary genetic interactions and paleogenomics Lab / Rafael Montiel Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| October 2020 - November 2020
 
-<font size="4">[**INMEGEN-IBT**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.ibt.unam.mx/">[Enrique Morett-Sánchez Lab]{style="color:  #C86E9A;"}</a> \| Research Assistant of the National System of Researchers level III supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
+<font size="4">[**INMEGEN-IBT**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.ibt.unam.mx/">[Enrique Morett-Sánchez Lab]{style="color:  #C86E9A;"}</a> \| Research Assistant of the National System of Researchers level III supervised by Israel Aguilar-Ordoñez (Professional practices) \| October 2018 - January 2020
 
 <font size="4">[**INMEGEN**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.inmegen.gob.mx/">[Cristóbal Fresno Rodríguez]{style="color:  #C86E9A;"}</a> \| Undergraduate researcher supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
 
-<font size="4">[**Centro de Investigaciones en Ciencias Microbiológicas**]{style="color:  #2C698D;"}</a></font> \| <a href="https://icuap.buap.mx/content/centro-de-investigaciones-en-ciencias-microbiol%C3%B3gicas">[Laboratorio de Genética Molecular Microbiana / Miguel Casteñeda-Lucio Lab]{style="color:  #C86E9A;"}</a> \| Highschool student and Undergraduate researcher supervised by Liliana López-Pliego \| April 2015 - October 2018
+<font size="4">[**Centro de Investigaciones en Ciencias Microbiológicas**]{style="color:  #2C698D;"}</a></font> \| <a href="https://icuap.buap.mx/content/centro-de-investigaciones-en-ciencias-microbiol%C3%B3gicas">[Laboratorio de Genética Molecular Microbiana / Miguel Casteñeda-Lucio Lab]{style="color:  #C86E9A;"}</a> \| Highschool student and undergraduate researcher supervised by Liliana López-Pliego (Doing Science in BUAP and Social Service) \| April 2015 - October 2018
 
 ## Oral Presentations and Posters
 
@@ -73,7 +73,7 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 [**R-Ladies chapters 4-8 of Software Carpentry "R for Reproducible Scientific Analysis"**]{style="color:  #2C698D;"}</a>. \| R instructor \| UNAM Center for Mathematical Sciences \| 2022
 
-[**Habilidades Básicas en Linux Vol 1"**]{style="color:  #2C698D;"}</a>. \| Instructor \| INMEGEN \| June 2022
+[**Habilidades Básicas en Linux Vol 1**]{style="color:  #2C698D;"}</a>. \| Instructor \| INMEGEN \| June 2022
 
 ## Courses and Meetings
 
@@ -96,3 +96,9 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 [**International Bioinformatics Workshops at the Center for Genomic Sciences of the UNAM: Genome Assembly and Annotation.**]{style="color:  #2C698D;"}</a> \| July 2017 \| IBT, UNAM - Cuernavaca, Morelos, Mexico
 
 [**International Bioinformatics Workshops at the Center for Genomic Sciences of the UNAM: Introduction to Human Genetics.**]{style="color:  #2C698D;"}</a> \| January 2017 \| IBT, UNAM - Cuernavaca, Morelos, Mexico
+
+[**Genomeeting by Winter Genomics**]{style="color:  #2C698D;"}</a> \| October 2016 \| INMEGEN - Mexico City, Mexico
+
+[**4th Biochemistry Congress from the Mexican Biochemistry Society (SMB)**]{style="color:  #2C698D;"}</a> \| October 2016 \| Aguascalientes, Mexico
+
+[**Bacterias Biochemistry and Molecular Biology IV Congress from SMB**]{style="color:  #2C698D;"}</a> \| October 2015 \| Puebla, Mexico
