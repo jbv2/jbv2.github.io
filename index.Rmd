@@ -55,6 +55,8 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 ## Oral Presentations and Posters
 
+[**Primer Congreso Internacional EnviroEpiHealth[MX]**]{style="color:  #2C698D;"}</a>. \| Puebla, Mexico - June 2024 \| [Oral speaker]{style="color:  #C86E9A;"}</a>
+
 [**10th Meeting of the International Society for Biomolecular Archaeology (ISBA10)**]{style="color:  #2C698D;"}</a>. \| Estonian National Museum, Tartu, Estonia - September 2023 \| [Poster]{style="color:  #C86E9A;"}</a>
 
 [**Society for Molecular Biology and Evolution Meeting (SMBE)**]{style="color:  #2C698D;"}</a>. \| Held virtually due to COVID - July 2021 \| [Poster]{style="color:  #C86E9A;"}</a>
@@ -63,9 +65,9 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 ## Publications
 
-[**A Tale of Native American Whole-Genome Sequencing and Other Technologies** ]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Guzmán-Linares J., [Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Morett, E. Diversity. 2022.08.12. <a href=https://doi.org/10.3390/d14080647>[DOI]{style="color: #6c757d;"}</a>.
+[**A Tale of Native American Whole-Genome Sequencing and Other Technologies**]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Guzmán-Linares J., [Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Morett, E. Diversity. 2022.08.12. <a href=https://doi.org/10.3390/d14080647>[DOI]{style="color: #6c757d;"}</a>.
 
-[**Whole genome variation in 27 Mexican indigenous populations, demographic and biomedical insights.** ]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Pérez-Villatoro F., García-Ortiz H., Barajas-Olmos F., [J.; Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Soberón X., and Morett, E. PLoS One. 2021.04.21. <a href=https://doi.org/10.1371/journal.pone.0249773>[DOI]{style="color: #6c757d;"}</a>.
+[**Whole genome variation in 27 Mexican indigenous populations, demographic and biomedical insights.**]{style="color:  #2C698D;"}</a>. Aguilar-Ordoñez, I.; Pérez-Villatoro F., García-Ortiz H., Barajas-Olmos F., [J.; Ballesteros-Villascán, J.]{style="color:  #C86E9A;"}</a>, $$...$$, Soberón X., and Morett, E. PLoS One. 2021.04.21. <a href=https://doi.org/10.1371/journal.pone.0249773>[DOI]{style="color: #6c757d;"}</a>.
 
 ## Teaching Experience
 
