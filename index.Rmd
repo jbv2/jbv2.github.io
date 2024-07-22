@@ -2,8 +2,8 @@
 title: "Judith Ballesteros Villascán"
 image: "./judith.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/_JBallesterosV"
+  - label: X
+    url: "https://x.com/_JBallesterosV"
   - label: GitHub
     url: "https://github.com/jbv2"
   - label: Email
@@ -55,11 +55,13 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 ## Oral Presentations and Posters
 
+[**Society for Molecular Biology and Evolution Meeting (SMBE2024)**]{style="color:  #2C698D;"}</a>. \| Puerto Vallarta, Mexico - July 2024 \| [Poster]{style="color:  #C86E9A;"}</a>
+
 [**Primer Congreso Internacional EnviroEpiHealth[MX]**]{style="color:  #2C698D;"}</a>. \| Puebla, Mexico - June 2024 \| [Oral speaker]{style="color:  #C86E9A;"}</a>
 
 [**10th Meeting of the International Society for Biomolecular Archaeology (ISBA10)**]{style="color:  #2C698D;"}</a>. \| Estonian National Museum, Tartu, Estonia - September 2023 \| [Poster]{style="color:  #C86E9A;"}</a>
 
-[**Society for Molecular Biology and Evolution Meeting (SMBE)**]{style="color:  #2C698D;"}</a>. \| Held virtually due to COVID - July 2021 \| [Poster]{style="color:  #C86E9A;"}</a>
+[**SMBE2021**]{style="color:  #2C698D;"}</a>. \| Held virtually due to COVID - July 2021 \| [Poster]{style="color:  #C86E9A;"}</a>
 
 [**INMEGEN. Students meeting**]{style="color:  #2C698D;"}</a>. \| Mexico City - December 2018 \| [Poster]{style="color:  #C86E9A;"}</a>
 
