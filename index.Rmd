@@ -2,8 +2,8 @@
 title: "Judith Ballesteros Villascán"
 image: "./judith.jpg"
 links:
-  - label: X
-    url: "https://x.com/_JBallesterosV"
+  - label: Bluesky
+    url: "https://bsky.app/profile/jballesterosv.bsky.social"
   - label: GitHub
     url: "https://github.com/jbv2"
   - label: Email
@@ -35,23 +35,6 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 
 <font size="4">[**B.S. in Biotechnology**]{style="color:  #2C698D;"}</a></font>  graduated with honors \| Meritorious Autonomous University of Puebla \| August 2015 - January 2020
 
-## Research Experience
-
-<font size="4">[**Max Planck Institute for Evolutionary Anthropology**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.eva.mpg.de/tropical-archaeogenomics/overview/">[Tropical Archaeogenomics / Kathrin Nägele Lab]{style="color:  #C86E9A;"}</a> \| PhD Candidate \| February 2023 - Present
-
-<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://regrnalab.github.io/">[RegRNA Lab / Selene Fernandes-Valverde Lab]{style="color:  #C86E9A;"}</a> \| Master's student \| January 2021 - September 2022
-
-<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab /Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Collaborator for Master's project \| January 2021 - September 2022
-
-<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab / Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| November 2020 - January 2021
-
-<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="https://langebio.cinvestav.mx/en/Dr-Rafael-Montiel">[Evolutionary genetic interactions and paleogenomics Lab / Rafael Montiel Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| October 2020 - November 2020
-
-<font size="4">[**INMEGEN-IBT**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.ibt.unam.mx/">[Enrique Morett-Sánchez Lab]{style="color:  #C86E9A;"}</a> \| Research Assistant of the National System of Researchers level III supervised by Israel Aguilar-Ordoñez (Professional practices) \| October 2018 - January 2020
-
-<font size="4">[**INMEGEN**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.inmegen.gob.mx/">[Cristóbal Fresno Rodríguez]{style="color:  #C86E9A;"}</a> \| Undergraduate researcher supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
-
-<font size="4">[**Centro de Investigaciones en Ciencias Microbiológicas**]{style="color:  #2C698D;"}</a></font> \| <a href="https://icuap.buap.mx/content/centro-de-investigaciones-en-ciencias-microbiol%C3%B3gicas">[Laboratorio de Genética Molecular Microbiana / Miguel Casteñeda-Lucio Lab]{style="color:  #C86E9A;"}</a> \| Highschool student and undergraduate researcher supervised by Liliana López-Pliego (Doing Science in BUAP and Social Service) \| April 2015 - October 2018
 
 ## Oral Presentations and Posters
 
@@ -80,6 +63,24 @@ Besides my academic interests, I like training at the GYM, making videos of the 
 [**R-Ladies chapters 4-8 of Software Carpentry "R for Reproducible Scientific Analysis"**]{style="color:  #2C698D;"}</a>. \| R instructor \| UNAM Center for Mathematical Sciences \| 2022
 
 [**Habilidades Básicas en Linux Vol 1**]{style="color:  #2C698D;"}</a>. \| Instructor \| INMEGEN \| June 2022
+
+## Research Experience
+
+<font size="4">[**Max Planck Institute for Evolutionary Anthropology**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.eva.mpg.de/tropical-archaeogenomics/overview/">[Tropical Archaeogenomics / Kathrin Nägele Lab]{style="color:  #C86E9A;"}</a> \| PhD Candidate \| February 2023 - Present
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://regrnalab.github.io/">[RegRNA Lab / Selene Fernandes-Valverde Lab]{style="color:  #C86E9A;"}</a> \| Master's student \| January 2021 - September 2022
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab /Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Collaborator for Master's project \| January 2021 - September 2022
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="http://www.morenolab.org/">[Human Population Genomics Lab / Andres Moreno-Estrada Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| November 2020 - January 2021
+
+<font size="4">[**LANGEBIO-CINVESTAV**]{style="color:  #2C698D;"}</a></font> \| <a href="https://langebio.cinvestav.mx/en/Dr-Rafael-Montiel">[Evolutionary genetic interactions and paleogenomics Lab / Rafael Montiel Lab]{style="color:  #C86E9A;"}</a> \| Rotation project \| October 2020 - November 2020
+
+<font size="4">[**INMEGEN-IBT**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.ibt.unam.mx/">[Enrique Morett-Sánchez Lab]{style="color:  #C86E9A;"}</a> \| Research Assistant of the National System of Researchers level III supervised by Israel Aguilar-Ordoñez (Professional practices) \| October 2018 - January 2020
+
+<font size="4">[**INMEGEN**]{style="color:  #2C698D;"}</a></font> \| <a href="https://www.inmegen.gob.mx/">[Cristóbal Fresno Rodríguez]{style="color:  #C86E9A;"}</a> \| Undergraduate researcher supervised by Israel Aguilar-Ordoñez \| October 2018 - January 2020
+
+<font size="4">[**Centro de Investigaciones en Ciencias Microbiológicas**]{style="color:  #2C698D;"}</a></font> \| <a href="https://icuap.buap.mx/content/centro-de-investigaciones-en-ciencias-microbiol%C3%B3gicas">[Laboratorio de Genética Molecular Microbiana / Miguel Casteñeda-Lucio Lab]{style="color:  #C86E9A;"}</a> \| Highschool student and undergraduate researcher supervised by Liliana López-Pliego (Doing Science in BUAP and Social Service) \| April 2015 - October 2018
 
 ## Courses and Meetings
 
